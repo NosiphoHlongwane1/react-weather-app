@@ -16,8 +16,7 @@ export default function App() {
           target="_blank"
           class="links"
           title="Portfolio GitHub link"
-          >GitHub</a
-        >
+          >GitHub</a>
       </p>
         </footer>
   );
