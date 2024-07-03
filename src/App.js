@@ -9,19 +9,16 @@ export default function App() {
         <Weather defaultCity="johannesburg" />
 
         <footer>
-          This project was coded by{" "}
-          <a href="https://github.com/NosiphoHlongwane1/react-weather-app.git" target="_blank">
-            Nosipho Hlongwane
-          </a>{" "}
-          and is{" "}
-          <a
-            href="https://github.com/NosiphoHlongwane1/react-weather-app"
-            target="_blank"
-          >
-            open-sourced on GitHub
-          </a>{" "}
+        <p class="text-white">
+        This project is developed by Nosipho Hlongwane and is available on
+        <a
+          href="https://github.com/NosiphoHlongwane1/react-weather-app"
+          target="_blank"
+          class="links"
+          title="Portfolio GitHub link"
+          >GitHub</a
+        >
+      </p>
         </footer>
-      </div>
-    </div>
   );
 }
