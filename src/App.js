@@ -19,5 +19,7 @@ export default function App() {
           >GitHub</a>
       </p>
         </footer>
+            </div>
+            </div>
   );
 }
