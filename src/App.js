@@ -14,6 +14,7 @@ export default function App() {
         <a
           href="https://github.com/NosiphoHlongwane1/react-weather-app"
           target="_blank"
+          rel="noreferrer"
           class="links"
           title="Portfolio GitHub link"
           >GitHub</a>
